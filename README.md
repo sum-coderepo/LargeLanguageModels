@@ -6,7 +6,14 @@ Repo to host LLM work
 https://github.com/bhaskatripathi/pdfGPT </br>
 https://github.com/Haste171/langchain-chatbot </br>
 https://github.com/mayooear/gpt4-pdf-chatbot-langchain </br>
+https://github.com/sortoite/pdfChatGPT </br>
+https://github.com/hwchase17/langchain </br>
+https://github.com/akshata29/chatpdf </br>
+https://github.com/arc53/DocsGPT </br>
+https://github.com/yvann-hub/Robby-chatbot </br>
 
+## Open AI
+https://github.com/dclin/openai-model-compare
 
 ## Knowledge Base
 https://github.com/kyrolabs/awesome-langchain </br>
@@ -23,3 +30,6 @@ https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna </br>
 https://github.com/kubasiak/azure-open-ai-embeddings-qna </br>
 https://github.com/baldacchino/AzureOpenAI-Chatbot-Streamlit </br>
 https://github.com/hcmarque/AzureOpenAI </br>
+
+## LLM and Graphs
+https://github.com/tomasonjo/langchain2neo4j
