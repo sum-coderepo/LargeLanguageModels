@@ -21,7 +21,9 @@ https://github.com/kyrolabs/awesome-langchain </br>
 
 ## Blogs
 https://medium.com/geekculture/automating-pdf-interaction-with-langchain-and-chatgpt-e723337f26a6 </br>
-https://medium.com/geekculture/streamlit-and-azure-openai-service-gpt-3-5-73640e8728f2
+https://medium.com/geekculture/streamlit-and-azure-openai-service-gpt-3-5-73640e8728f2 </br>
+https://alphasec.io/query-your-own-documents-with-llamaindex-and-langchain/ </br>
+https://cobusgreyling.medium.com/building-langchain-agents-with-langflow-5ab2e25e4d4d </br>
 
 ## Azure OpenAI
 https://gist.github.com/csiebler </br>
