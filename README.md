@@ -24,6 +24,8 @@ https://medium.com/geekculture/automating-pdf-interaction-with-langchain-and-cha
 https://medium.com/geekculture/streamlit-and-azure-openai-service-gpt-3-5-73640e8728f2 </br>
 https://alphasec.io/query-your-own-documents-with-llamaindex-and-langchain/ </br>
 https://cobusgreyling.medium.com/building-langchain-agents-with-langflow-5ab2e25e4d4d </br>
+https://betterprogramming.pub/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd </br>
+https://dmccreary.medium.com/the-generative-turn-for-tech-strategy-502390aafb76 </br>
 
 ## Azure OpenAI
 https://gist.github.com/csiebler </br>
