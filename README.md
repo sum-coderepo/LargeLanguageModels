@@ -45,5 +45,7 @@ https://github.com/hcmarque/AzureOpenAI </br>
 https://github.com/tomasonjo/langchain2neo4j
 
 ## Youtube
-https://www.youtube.com/watch?v=nAKhxQ3hcMA -- Chatbot Answering from Your Own Knowledge Base: Langchain, ChatGPT, Pinecone, and Streamlit: | Code
-https://www.youtube.com/watch?v=W7kDwsWFjvE
+https://www.youtube.com/watch?v=nAKhxQ3hcMA -- Chatbot Answering from Your Own Knowledge Base: Langchain, ChatGPT, Pinecone, and Streamlit: | Code </br>
+https://www.youtube.com/watch?v=W7kDwsWFjvE </br>
+https://www.youtube.com/watch?v=dXxQ0LR-3Hg -- Chat with Multiple PDFs | LangChain App Tutorial in Python (Free LLMs and Embeddings) </br>
+https://www.youtube.com/watch?v=ZzgUqFtxgXI -- Master PDF Chat with LangChain - Your essential guide to queries on documents </br>
