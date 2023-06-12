@@ -37,3 +37,6 @@ https://github.com/hcmarque/AzureOpenAI </br>
 
 ## LLM and Graphs
 https://github.com/tomasonjo/langchain2neo4j
+
+## Youtube
+https://www.youtube.com/watch?v=nAKhxQ3hcMA -- Chatbot Answering from Your Own Knowledge Base: Langchain, ChatGPT, Pinecone, and Streamlit: | Code
