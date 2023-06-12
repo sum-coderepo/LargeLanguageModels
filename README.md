@@ -11,6 +11,10 @@ https://github.com/hwchase17/langchain </br>
 https://github.com/akshata29/chatpdf </br>
 https://github.com/arc53/DocsGPT </br>
 https://github.com/yvann-hub/Robby-chatbot </br>
+https://github.com/PradipNichite/streamlit-example </br>
+https://github.com/PradipNichite/Youtube-Tutorials </br>
+https://github.com/vvrahul11/llm_chatbot
+
 
 ## Open AI
 https://github.com/dclin/openai-model-compare
@@ -40,4 +44,4 @@ https://github.com/tomasonjo/langchain2neo4j
 
 ## Youtube
 https://www.youtube.com/watch?v=nAKhxQ3hcMA -- Chatbot Answering from Your Own Knowledge Base: Langchain, ChatGPT, Pinecone, and Streamlit: | Code
-https://www.youtube.com/watch?v=W7kDwsWFjvE&t=668
+https://www.youtube.com/watch?v=W7kDwsWFjvE
