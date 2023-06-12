@@ -40,3 +40,4 @@ https://github.com/tomasonjo/langchain2neo4j
 
 ## Youtube
 https://www.youtube.com/watch?v=nAKhxQ3hcMA -- Chatbot Answering from Your Own Knowledge Base: Langchain, ChatGPT, Pinecone, and Streamlit: | Code
+https://www.youtube.com/watch?v=W7kDwsWFjvE&t=668
