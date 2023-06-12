@@ -14,6 +14,7 @@ https://github.com/yvann-hub/Robby-chatbot </br>
 https://github.com/PradipNichite/streamlit-example </br>
 https://github.com/PradipNichite/Youtube-Tutorials </br>
 https://github.com/vvrahul11/llm_chatbot
+https://github.com/alejandro-ao/ask-multiple-pdfs/tree/main
 
 
 ## Open AI
@@ -30,6 +31,7 @@ https://alphasec.io/query-your-own-documents-with-llamaindex-and-langchain/ </br
 https://cobusgreyling.medium.com/building-langchain-agents-with-langflow-5ab2e25e4d4d </br>
 https://betterprogramming.pub/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd </br>
 https://dmccreary.medium.com/the-generative-turn-for-tech-strategy-502390aafb76 </br>
+https://medium.com/geekculture/automating-pdf-interaction-with-langchain-and-chatgpt-e723337f26a6
 
 ## Azure OpenAI
 https://gist.github.com/csiebler </br>
