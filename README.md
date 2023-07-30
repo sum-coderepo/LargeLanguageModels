@@ -15,6 +15,8 @@ https://github.com/PradipNichite/streamlit-example </br>
 https://github.com/PradipNichite/Youtube-Tutorials </br>
 https://github.com/vvrahul11/llm_chatbot  </br>
 https://github.com/alejandro-ao/ask-multiple-pdfs/tree/main
+https://github.com/1nnovat1on/gpt_chatbot
+https://github.com/karpathy/minGPT
 
 
 ## Open AI
