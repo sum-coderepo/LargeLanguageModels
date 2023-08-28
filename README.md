@@ -2,6 +2,17 @@
 Repo to host LLM work
 
 
+##  UI for LLM
+1. https://github.com/judygab/chatgpt-api-react/
+2. https://github.com/trananhtuat/react-openai-chat
+3. https://github.com/ascorbic/daneel
+4. https://github.com/JZilla808/chasegpt-public
+5. https://github.com/Azure-Samples/azure-search-openai-demo
+6. https://github.com/shivanshubisht/chatgpt
+7. https://github.com/m-foskett/chatbot
+8. https://github.com/microsoftgraph/msgraph-sample-react-native
+
+
 ## Github 
 https://github.com/bhaskatripathi/pdfGPT </br>
 https://github.com/Haste171/langchain-chatbot </br>
