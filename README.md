@@ -30,6 +30,11 @@ https://github.com/1nnovat1on/gpt_chatbot
 https://github.com/karpathy/minGPT
 
 
+## Coode GPT
+
+### YT
+1. [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+
 ## Open AI
 https://github.com/dclin/openai-model-compare
 
