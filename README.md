@@ -14,10 +14,10 @@ Repo to host LLM work
 
 
 ## Github 
-https://github.com/bhaskatripathi/pdfGPT </br>
-https://github.com/Haste171/langchain-chatbot </br>
-https://github.com/mayooear/gpt4-pdf-chatbot-langchain </br>
-https://github.com/sortoite/pdfChatGPT </br>
+[bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) </br>
+[Haste171/langchain-chatbot](https://github.com/Haste171/langchain-chatbot) </br>
+[mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) </br>
+[sortoite/pdfChatGPT](https://github.com/sortoite/pdfChatGPT) </br>
 https://github.com/hwchase17/langchain </br>
 https://github.com/akshata29/chatpdf </br>
 https://github.com/arc53/DocsGPT </br>
