@@ -21,8 +21,8 @@ Repo to host LLM work
 [hwchase17/langchain](https://github.com/hwchase17/langchain) </br>
 [akshata29/chatpdf](https://github.com/akshata29/chatpdf) </br>
 [arc53/DocsGPT](https://github.com/arc53/DocsGPT) </br>
-https://github.com/yvann-hub/Robby-chatbot </br>
-https://github.com/PradipNichite/streamlit-example </br>
+[yvann-hub/Robby-chatbot](https://github.com/yvann-hub/Robby-chatbot) </br>
+[PradipNichite/streamlit-example](https://github.com/PradipNichite/streamlit-example) </br>
 https://github.com/PradipNichite/Youtube-Tutorials </br>
 https://github.com/vvrahul11/llm_chatbot  </br>
 https://github.com/alejandro-ao/ask-multiple-pdfs/tree/main </br>
