@@ -57,9 +57,10 @@ https://alphasec.io/query-your-own-documents-with-llamaindex-and-langchain/ </br
 https://cobusgreyling.medium.com/building-langchain-agents-with-langflow-5ab2e25e4d4d </br>
 https://betterprogramming.pub/build-a-chatbot-on-your-csv-data-with-langchain-and-openai-ed121f85f0cd </br>
 https://dmccreary.medium.com/the-generative-turn-for-tech-strategy-502390aafb76 </br>
-https://medium.com/geekculture/automating-pdf-interaction-with-langchain-and-chatgpt-e723337f26a6
-https://levelup.gitconnected.com/langchain-for-multiple-pdf-files-87c966e0c032
-https://medium.com/@ssmaameri/building-a-multi-document-reader-and-chatbot-with-langchain-and-chatgpt-d1864d47e339
+https://medium.com/geekculture/automating-pdf-interaction-with-langchain-and-chatgpt-e723337f26a6</br>
+https://levelup.gitconnected.com/langchain-for-multiple-pdf-files-87c966e0c032</br>
+https://medium.com/@ssmaameri/building-a-multi-document-reader-and-chatbot-with-langchain-and-chatgpt-d1864d47e339</br>
+[encouraging-results-knowledge-graph-extraction-llm-peter-lawrence](https://www.linkedin.com/pulse/encouraging-results-knowledge-graph-extraction-llm-peter-lawrence/)
 
 ## Azure OpenAI
 https://gist.github.com/csiebler </br>
