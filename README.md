@@ -29,6 +29,7 @@ https://github.com/alejandro-ao/ask-multiple-pdfs/tree/main
 https://github.com/1nnovat1on/gpt_chatbot
 https://github.com/karpathy/minGPT
 https://github.com/Chainlit/chainlit
+https://github.com/open-mmlab/Multimodal-GPT
 
 ## Generic
 1. [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
