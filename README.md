@@ -66,6 +66,7 @@ https://medium.com/geekculture/automating-pdf-interaction-with-langchain-and-cha
 https://levelup.gitconnected.com/langchain-for-multiple-pdf-files-87c966e0c032</br>
 [building-a-multi-document-reader-and-chatbot-with-langchain-and-chatgpt](https://medium.com/@ssmaameri/building-a-multi-document-reader-and-chatbot-with-langchain-and-chatgpt-d1864d47e339)</br>
 [encouraging-results-knowledge-graph-extraction-llm-peter-lawrence](https://www.linkedin.com/pulse/encouraging-results-knowledge-graph-extraction-llm-peter-lawrence/)
+https://betterprogramming.pub/large-language-model-knowledge-graph-store-yes-by-fine-tuning-llm-with-kg-f88b556959e6
 
 ## Azure OpenAI
 https://gist.github.com/csiebler </br>
