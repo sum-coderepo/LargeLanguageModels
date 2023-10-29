@@ -18,18 +18,17 @@ Repo to host LLM work
 [Haste171/langchain-chatbot](https://github.com/Haste171/langchain-chatbot) </br>
 [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) </br>
 [sortoite/pdfChatGPT](https://github.com/sortoite/pdfChatGPT) </br>
-https://github.com/hwchase17/langchain </br>
-https://github.com/akshata29/chatpdf </br>
-https://github.com/arc53/DocsGPT </br>
+[hwchase17/langchain](https://github.com/hwchase17/langchain) </br>
+[akshata29/chatpdf](https://github.com/akshata29/chatpdf) </br>
+[arc53/DocsGPT](https://github.com/arc53/DocsGPT) </br>
 https://github.com/yvann-hub/Robby-chatbot </br>
 https://github.com/PradipNichite/streamlit-example </br>
 https://github.com/PradipNichite/Youtube-Tutorials </br>
 https://github.com/vvrahul11/llm_chatbot  </br>
 https://github.com/alejandro-ao/ask-multiple-pdfs/tree/main </br>
 https://github.com/1nnovat1on/gpt_chatbot </br>
-https://github.com/karpathy/minGPT </br>
+
 https://github.com/Chainlit/chainlit </br>
-https://github.com/open-mmlab/Multimodal-GPT </br>
 
 ## Generic
 1. [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
@@ -42,6 +41,8 @@ https://github.com/open-mmlab/Multimodal-GPT </br>
 
 ### Github
 1. [jaymody/picoGPT](https://github.com/jaymody/picoGPT)
+2. [open-mmlab/Multimodal-GPT](https://github.com/open-mmlab/Multimodal-GPT) </br>
+3. [karpathy/minGPT](https://github.com/karpathy/minGPT) </br>
 
 ## Open AI
 https://github.com/dclin/openai-model-compare
