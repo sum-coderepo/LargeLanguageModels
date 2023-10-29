@@ -35,6 +35,9 @@ https://github.com/karpathy/minGPT
 ### YT
 1. [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
+### Github
+1. [jaymody/picoGPT](https://github.com/jaymody/picoGPT)
+
 ## Open AI
 https://github.com/dclin/openai-model-compare
 
