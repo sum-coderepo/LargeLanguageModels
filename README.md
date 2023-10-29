@@ -25,11 +25,11 @@ https://github.com/yvann-hub/Robby-chatbot </br>
 https://github.com/PradipNichite/streamlit-example </br>
 https://github.com/PradipNichite/Youtube-Tutorials </br>
 https://github.com/vvrahul11/llm_chatbot  </br>
-https://github.com/alejandro-ao/ask-multiple-pdfs/tree/main
-https://github.com/1nnovat1on/gpt_chatbot
-https://github.com/karpathy/minGPT
-https://github.com/Chainlit/chainlit
-https://github.com/open-mmlab/Multimodal-GPT
+https://github.com/alejandro-ao/ask-multiple-pdfs/tree/main </br>
+https://github.com/1nnovat1on/gpt_chatbot </br>
+https://github.com/karpathy/minGPT </br>
+https://github.com/Chainlit/chainlit </br>
+https://github.com/open-mmlab/Multimodal-GPT </br>
 
 ## Generic
 1. [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html)
